@@ -1,5 +1,5 @@
 # Effective Receptive Field Visualization for Convolutional Neural Networks
-![Image text](https://github.com/yinntag/Multi-scale-deep-feature-learning/blob/main/Model/model.png)
+![Image text](https://github.com/yinntag/ERF_Visualization/tree/main/figure/erf.png)
 
 # Requirements
 - python 3
