@@ -1,4 +1,4 @@
-# Effective Receptive Field Visualization for Convolutional Neural Networks
+# A Simple Effective Receptive Field Visualization for Convolutional Neural Networks
 ![Image text](https://github.com/yinntag/ERF_Visualization/tree/main/figure/erf.png)
 
 # Requirements
